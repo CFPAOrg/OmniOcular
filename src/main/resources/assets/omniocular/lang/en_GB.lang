@@ -1,0 +1,13 @@
+omniocular.info.NotHolding=test
+omniocular.info.NotPointing=test
+hud.msg.common.LiquidAmount=test
+hud.msg.common.StorageFluid=test
+hud.msg.common.BurnTime=test
+hud.msg.AWWayofTime.Capacity=test
+hud.msg.AWWayofTime.Process=test
+hud.msg.AWWayofTime.ProcessSpeed=test
+hud.msg.AWWayofTime.IOSpeed=test
+hud.msg.AWWayofTime.OrbCapacity=test
+hud.msg.AWWayofTime.Sacrifice=test
+hud.msg.AWWayofTime.SelfSacrifice=test
+omniocular.info.test=test s test test
