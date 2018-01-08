@@ -1,5 +1,6 @@
 omniocular.info.NotHolding=NotHolding
 omniocular.info.NotPointing=NotPointing
+omniocular.info.test=test %s test
 
 hud.msg.common.LiquidAmount=Liquid Amount
 hud.msg.common.StorageFluid=Storage Fluid
