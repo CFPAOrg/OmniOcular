@@ -12,7 +12,7 @@ hud.msg.AWWayofTime.IOSpeed=IO Speed
 hud.msg.AWWayofTime.OrbCapacity=Orb Capacity
 hud.msg.AWWayofTime.Sacrifice=Sacrifice
 hud.msg.AWWayofTime.SelfSacrifice=Self-Sacrifice
-hud.msg.AWWayofTime.RitualID=Ritual ID
+hud.msg.AWWayofTime.RitualID=仪式ID
 hud.msg.AWWayofTime.RitualOwner=Ritual Owner
 hud.msg.AWWayofTime.Require=Require
 #BLANK_LINE_431562bfa7fa43c8bc5b0a13853a1e57
