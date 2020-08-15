@@ -5,7 +5,7 @@ hud.msg.common.LiquidAmount=流体存量
 hud.msg.common.StorageFluid=流体种类
 hud.msg.common.BurnTime=燃烧时间
 #BLANK_LINE_431562bfa7fa43c8bc5b0a13853a1e57
-hud.msg.AWWayofTime.Capacity=Capacity
+hud.msg.AWWayofTime.Capacity=容量
 hud.msg.AWWayofTime.Process=Process
 hud.msg.AWWayofTime.ProcessSpeed=Process Speed
 hud.msg.AWWayofTime.IOSpeed=IO Speed
