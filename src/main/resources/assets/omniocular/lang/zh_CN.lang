@@ -1,2 +1,3 @@
 omniocular.info.NotHolding=使用该指令必须手持一件物品
 omniocular.info.NotPointing=使用该指令必须对准一个实体
+omniocular.info.test=测试 %s 测试
