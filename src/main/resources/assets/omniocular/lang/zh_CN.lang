@@ -1,5 +1,6 @@
 omniocular.info.NotHolding=使用该指令必须手持一件物品
 omniocular.info.NotPointing=使用该指令必须对准一个实体
 omniocular.info.test=测试 %s 测试
-hud.msg.common.StorageFluid=流体储存
+hud.msg.common.StorageFluid=存储流体
 hud.msg.common.LiquidAmount=流体量
+hud.msg.common.BurnTime=燃烧时间
