@@ -14,4 +14,5 @@ hud.msg.AWWayofTime.Process=进程
 hud.msg.AWWayofTime.IOSpeed=导速
 hud.msg.AWWayofTime.RitualOwner=仪式者
 hud.msg.AWWayofTime.Require=要
-hud.msg.Botania.Mana=魔力
+hud.msg.Botania.Mana=魔
+hud.msg.Botania.output.0=接受物品的魔力
