@@ -16,4 +16,5 @@ hud.msg.AWWayofTime.RitualOwner=仪式者
 hud.msg.AWWayofTime.Require=要
 hud.msg.Botania.Mana=魔
 hud.msg.Botania.output.0=接受物品的魔
-hud.msg.Botania.output.1=为物品节省魔力
+hud.msg.Botania.output.1=为物品节省魔
+hud.msg.BuildCraftCore.MaxEnergyReceive=最大能量接收
