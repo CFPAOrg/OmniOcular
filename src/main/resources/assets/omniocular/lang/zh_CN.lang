@@ -5,6 +5,6 @@ hud.msg.common.StorageFluid=存储流体
 hud.msg.common.LiquidAmount=流体量
 hud.msg.common.BurnTime=燃烧时间
 hud.msg.AWWayofTime.ProcessSpeed=加工速度
-hud.msg.AWWayofTime.SelfSacrifice=自我献祭
+hud.msg.AWWayofTime.SelfSacrifice=自献祭
 hud.msg.AWWayofTime.OrbCapacity=球体容量
 hud.msg.AWWayofTime.Sacrifice=献祭
