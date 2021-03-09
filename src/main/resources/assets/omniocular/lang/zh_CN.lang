@@ -4,3 +4,4 @@ omniocular.info.test=测试 %s 测试
 hud.msg.common.StorageFluid=存储流体
 hud.msg.common.LiquidAmount=流体量
 hud.msg.common.BurnTime=燃烧时间
+hud.msg.AWWayofTime.ProcessSpeed=加工速度
