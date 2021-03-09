@@ -11,4 +11,5 @@ hud.msg.AWWayofTime.Sacrifice=祭
 hud.msg.AWWayofTime.RitualID=仪式名
 hud.msg.AWWayofTime.Capacity=容
 hud.msg.AWWayofTime.Process=进程
-hud.msg.AWWayofTime.IOSpeed=导管速度
+hud.msg.AWWayofTime.IOSpeed=导速
+hud.msg.AWWayofTime.RitualOwner=仪式拥有者
